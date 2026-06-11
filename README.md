@@ -29,10 +29,12 @@ regulated rail generation, fused outputs, and MOSFET-switched controllable chann
 
 ## PCB
 <p align="center">
-  <img src="Images/PCB.png" alt="PDU PCB Top" width="45%"/>
+  <img src="Images/PCB-Top.png" alt="PDU PCB Top Layer" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="Images/PCB-Bottom.png" alt="PDU PCB Bottom Layer" width="45%"/>
 </p>
 <p align="center">
-  <em>PDU</em>
+  <em>PDU — Top Layer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bottom Layer</em>
 </p>
 
 ## 3D View
