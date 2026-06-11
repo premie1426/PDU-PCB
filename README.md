@@ -29,9 +29,9 @@ regulated rail generation, fused outputs, and MOSFET-switched controllable chann
 
 ## PCB
 <p align="center">
-  <img src="Images/PCB-Top.png" alt="PDU PCB Top Layer" width="45%"/>
+  <img src="Images/Top layer.png" alt="PDU PCB Top Layer" width="45%"/>
   &nbsp;&nbsp;
-  <img src="Images/PCB-Bottom.png" alt="PDU PCB Bottom Layer" width="45%"/>
+  <img src="Images/Bottom layer.png" alt="PDU PCB Bottom Layer" width="45%"/>
 </p>
 <p align="center">
   <em>PDU — Top Layer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bottom Layer</em>
@@ -39,9 +39,9 @@ regulated rail generation, fused outputs, and MOSFET-switched controllable chann
 
 ## 3D View
 <p align="center">
-  <img src="Images/3D-Front.png" alt="PDU 3D View Top" width="45%"/>
+  <img src="Images/PDU front.jpg" alt="PDU 3D View Top" width="45%"/>
   &nbsp;&nbsp;
-  <img src="Images/3D-Back.png" alt="PDU 3D View Bottom" width="45%"/>
+  <img src="Images/PDU back.png" alt="PDU 3D View Bottom" width="45%"/>
 </p>
 <p align="center">
   <em>PDU — 3D render from Altium</em>
